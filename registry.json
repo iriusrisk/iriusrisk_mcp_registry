@@ -4,7 +4,7 @@
       "id": "iriusrisk-cli",
       "name": "IriusRisk MCP CLI",
       "description": "MCP CLI for integrating with IriusRisk Enterprise",
-      "manifest_url": "file:///path/to/local/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/iriusrisk/iriusrisk_mcp_registry/refs/heads/main/manifests/iriusrisk_cli.json",
       "categories": ["security", "local", "devtools"],
       "version": "1.0.0",
       "release_date": "2025-10-20T00:00:00Z",
