@@ -2,7 +2,7 @@
   "servers": [
     {
       "id": "iriusrisk-cli",
-      "name": "IriusRisk MCP CLI",
+      "name": "iriusrisk-cli",
       "description": "MCP CLI for integrating with IriusRisk Enterprise",
       "manifest_url": "https://raw.githubusercontent.com/iriusrisk/iriusrisk_mcp_registry/refs/heads/main/manifests/iriusrisk_cli.json",
       "categories": ["security", "local", "devtools"],
