@@ -1,0 +1,16 @@
+{
+  "servers": [
+    {
+      "id": "iriusrisk-cli",
+      "name": "IriusRisk MCP CLI",
+      "description": "MCP CLI for integrating with IriusRisk Enterprise",
+      "manifest_url": "file:///path/to/local/manifest.json",
+      "categories": ["security", "local", "devtools"],
+      "version": "1.0.0",
+      "release_date": "2025-10-20T00:00:00Z",
+      "latest": true
+    }
+  ],
+  "total_count": 1,
+  "updated_at": "2025-10-20T00:00:01Z"
+}
